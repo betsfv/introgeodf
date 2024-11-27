@@ -1,5 +1,5 @@
 # introgeodf
-link para la tarea 5: https://betsfv.github.io/introgeodf/
+link para la tarea final: https://betsfv.github.io/introgeodf/
 Integrante:
 - Camila Rodríguez
 - Camila Bracamonte
